@@ -16,10 +16,17 @@ Hello there! 👋 I am an enthusiastic Junior Software Tester with a meticulous 
 - **Bug Tracking:** Jira
 - **Test Case Management:** TestRail
 - **Version Control:** Git, GitHub
+- **API:** Postman
 
 ### Certifications
 
 - **ISTQB Certified Tester:** Foundation Level
+
+### Languages
+
+- **English:** B2
+- **Czech:** C1
+- **Russian:** native
 
 I am always eager to contribute to projects that prioritize quality and user satisfaction. Let's work together to make your software the best it can be! Feel free to reach out for any testing needs or collaboration opportunities.
 
