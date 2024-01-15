@@ -1,7 +1,7 @@
 # CV
 ## About Me
 
-Hello there! 👋 I am passionate about ensuring software quality through meticulous manual testing. As a seasoned Manual Tester, I bring a keen eye for detail and a systematic approach to testing software applications. My expertise lies in creating comprehensive test cases, executing them rigorously, and reporting detailed bug reports.
+Hello there! 👋 I am an enthusiastic Junior Software Tester with a meticulous mindset, finding joy in the adventure of bug hunting. During a practical IT course, I learned the basics of test design techniques, SDLC and Agile methodologies, tools for issue tracking and test case management, SQL,  API testing and gained experience with supporting tools. I successfully passed the ISTQB exam and I am currently looking for projects or internships to practice my skills in a commercial environment.
 
 ### Skills
 
