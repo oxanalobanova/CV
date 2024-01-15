@@ -6,8 +6,8 @@ Hello there! 👋 I am an enthusiastic Junior Software Tester with a meticulous 
 ### Skills
 
 - **Manual Testing:** Proficient in testing web and mobile applications manually to identify issues and ensure a seamless user experience.
-- **Test Case Design:** Skilled in creating clear and concise test cases to validate software functionality.
-- **Bug Tracking:** Experienced in using bug tracking tools to report issues and follow their resolution.
+- **Test Case Design:** Creating clear and concise test cases to validate software functionality.
+- **Bug Tracking:** Using bug tracking tools to report issues and follow their resolution.
 - **Regression Testing:** Capable of conducting regression tests to ensure that new changes do not adversely affect existing features.
 - **Collaboration:** Excellent team player with strong communication skills, ensuring effective collaboration with developers and other stakeholders.
 
